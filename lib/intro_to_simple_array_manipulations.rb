@@ -4,8 +4,8 @@ next_color = "violet"
 end
 
 def using_unshift(array, element)
-array.unshift(@new_neighborhood)
 @new_neighborhood = "Staton Island"
+array.unshift(@new_neighborhood)
 end
 
 def using_pop(array)
