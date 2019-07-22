@@ -4,9 +4,8 @@ next_color = "violet"
 end
 
 def using_unshift(array, element)
-bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+array.unshift(@new_neighborhood)
 @new_neighborhood = "Staton Island"
-bouroughs_in_nyc.unshift(@new_neighborhood)
 end
 
 def using_pop(array)
