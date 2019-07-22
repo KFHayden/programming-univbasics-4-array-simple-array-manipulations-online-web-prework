@@ -1,6 +1,6 @@
 def using_push(array, element)
 next_color = "violet"
-  ["red", "orange", "yellow", "green", "blue", "indigo"].push(next_color)
+  array.push(next_color)
 end
 
 def using_unshift(array, element)
