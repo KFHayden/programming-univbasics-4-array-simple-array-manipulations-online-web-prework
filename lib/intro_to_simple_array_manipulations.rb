@@ -1,11 +1,11 @@
 def using_push(array, element)
-next_color = "violet"
+  next_color = "violet"
   array.push(next_color)
 end
 
 def using_unshift(array, element)
-@new_neighborhood = "Staton Island"
-array.unshift(@new_neighborhood)
+  @new_neighborhood = "Staton Island"
+  array.unshift(@new_neighborhood)
 end
 
 def using_pop(array)
