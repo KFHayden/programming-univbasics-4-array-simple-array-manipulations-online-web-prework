@@ -19,5 +19,5 @@ def pop_with_args(array)
 end
 
 def using_shift(array)
-  @my_favorite_cities.shift
+  array.shift
 end
