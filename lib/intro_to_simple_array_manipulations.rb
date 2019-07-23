@@ -26,6 +26,6 @@ end
 
 def using_concat(array)
   
-  more_favs = ["sports cars", "flatiron school"]
+  array
   array.concat
 end
