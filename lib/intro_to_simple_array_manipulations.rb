@@ -29,6 +29,5 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, element)
-  another_language = "Python"
   array.insert("Python", 4)
 end
