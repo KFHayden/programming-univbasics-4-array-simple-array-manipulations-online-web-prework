@@ -33,6 +33,6 @@ def using_insert(array, element)
 end
 
 def using_uniq(array)
-  
+  new_array = using_uniq(haircuts)
   array.uniq
 end
