@@ -24,7 +24,8 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat(array2)
+def using_concat(array)
+  
   more_favs = ["sports cars", "flatiron school"]
   array.concat
 end
