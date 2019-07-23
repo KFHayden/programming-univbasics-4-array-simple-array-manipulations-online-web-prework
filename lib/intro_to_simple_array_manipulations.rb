@@ -30,5 +30,5 @@ end
 
 def using_insert(array, element)
   another_language = "Python"
-  array.insert
+  array.insert(4)
 end
